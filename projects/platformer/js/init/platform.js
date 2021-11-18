@@ -40,8 +40,8 @@
         
 
         createPlatform(700,20);
-        createPlatform(170, 500);
-        createPlatform(35,250);
+        createPlatform(600,350);
+        createPlatform(50,200);
         createPlatform(70,800);
         createPlatform(100, 400);
         createPlatform(20, 600);
